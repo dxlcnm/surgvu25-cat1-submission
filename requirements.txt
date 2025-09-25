@@ -1,0 +1,5 @@
+# segment_anything
+ultralytics
+opencv-python
+timm
+scikit-image
