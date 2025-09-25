@@ -29,8 +29,7 @@ The output result is saved in a json format file like this
         [0, 113, 0.5]
       ],
       "probability": 0.26842018961906433
-    },
-    // ...more boxes
+    }
   ]
 }
 ```
